@@ -1,0 +1,23 @@
+.ulasim {
+    background-color: rgba(40, 20, 13, 0.73);
+    margin: 0;
+    padding: 1rem;
+    height: 10vh;
+    display:flex;
+    flex-direction: row;
+    border-radius: 16px;
+}
+
+.icon-tel {
+    font-size: 1.5rem; 
+    flex-basis: 50%;
+    text-align: center;
+    justify-content: center;
+}
+
+.icon-mail {
+    font-size: 1.5rem;
+    flex-basis: 50%;
+    text-align: center;
+    justify-content: center;
+}
